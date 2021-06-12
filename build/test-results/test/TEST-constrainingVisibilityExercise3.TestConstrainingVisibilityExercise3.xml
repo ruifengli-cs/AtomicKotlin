@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="constrainingVisibilityExercise3.TestConstrainingVisibilityExercise3" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-06-11T02:46:32" hostname="Ryans-iMac.local" time="0.019">
+  <properties/>
+  <testcase name="test1Right" classname="constrainingVisibilityExercise3.TestConstrainingVisibilityExercise3" time="0.016"/>
+  <testcase name="test2Left" classname="constrainingVisibilityExercise3.TestConstrainingVisibilityExercise3" time="0.001"/>
+  <testcase name="test3Up" classname="constrainingVisibilityExercise3.TestConstrainingVisibilityExercise3" time="0.001"/>
+  <testcase name="test4Down" classname="constrainingVisibilityExercise3.TestConstrainingVisibilityExercise3" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
